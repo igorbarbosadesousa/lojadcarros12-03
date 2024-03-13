@@ -1,0 +1,41 @@
+@import url('https://fonts.googleapis.com/css2?family=Open+Sans:ital,wght@0,300..800;1,300..800&display=swap');
+/* estilo projeto */
+body{
+    font-family: 'roboto', 'Georgia', 'Times New Roman';
+    background: #09a0db;
+
+}
+td{
+    background: #020202;
+    color:#0eabe9;
+    padding: 8px;
+    font-size: 22;
+    text-align: center;
+
+}
+th{
+    background: #04BF8A;
+    padding: 8px;
+    text-align: center;
+
+}
+h1{ color:#050705;
+    margin-top: 40px;
+    font-size: 40px;
+    font-weight: bold;
+}
+
+h2{ color: #080e0b; }
+
+table{
+    width: 100%;
+    border-collapse: collapse; /* remove a linha dupla */
+    border: 1px solid #ff0000;
+    margin-top: 24px;
+}
+img{
+    border-radius: 13%;
+}
+.direita{
+    text-align: right;
+}
